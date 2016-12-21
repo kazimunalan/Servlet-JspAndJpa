@@ -14,7 +14,7 @@ Tasarım için Bootstrap kullanılmıştır.
 
 --Uygulama Gereksinimleri ve POM Dosyası--
 
-Servlet ile yazacağımız uygulamamız, Name,Surname ve Salary bilgileri alınmış olup üye kaydı sağlanmıştır. Sonra da tablodaki tüm üye listeleri gösterilmiştir.
+Servlet-Jsp kullanılarak yazdığımız uygulamada Name,Surname ve Salary bilgileri alınmış olup üye kaydı sağlanmıştır. Sonra da tablodaki tüm üye listeleri gösterilmiştir.
 
 Proje de MySQL workbench de veritabanı hazırlanmıştır. Hazırlanan veritabanının ismi schema dir. İstenildiği taktirde META-INF/persistence.xml dosyasından veritabanı ismi değiştirilebilir. Bu dosyada jsp, mysql ve hibernate konfigürasyonları bulunmaktadır.
 
